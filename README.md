@@ -4,3 +4,4 @@ with The Odin Project, by way of creating a basic recipes website with links to 
 webpages
 
 Further reflection upon completion...
+Trying to get text editor for commits with wrapping feature
